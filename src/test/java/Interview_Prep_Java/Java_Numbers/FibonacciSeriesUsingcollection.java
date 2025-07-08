@@ -1,4 +1,4 @@
-package Interview_Prep_Java;
+package Interview_Prep_Java.Java_Numbers;
 
 import java.util.HashMap;
 import java.util.Map;
