@@ -11,7 +11,8 @@ public class Prime_Number_In_Optimation {
 			if(n%i==0)
 					return false;
 			return true;
-		}
+			
+	}
 	
 	
 	
